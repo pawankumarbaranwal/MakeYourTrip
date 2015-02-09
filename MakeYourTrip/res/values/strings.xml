@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Make Your Trip</string>
+
+    <string-array name="navigation_list">
+        <item>Flight Status</item>
+        <item>PNR Status</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="flightstatus">Flight Status</string>
+    <string name="pnrstatus">PNR status</string>
+
+</resources>
